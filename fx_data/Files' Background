@@ -1,0 +1,3 @@
+" This is the data collected for 6 Fx pairs (EUR/USD, GBPUSD, AUDUSD, USDJPY, USDCHF, USDCAD)"
+
+"OHLC + 200-day SMA, RSI (14), Stochastic Oscillator (slow k, slow d)"
