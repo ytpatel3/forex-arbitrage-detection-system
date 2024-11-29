@@ -1,0 +1,1 @@
+#### Developed machine learning models (LSTM, ARIMA, Random Forest) to predict arbitrage opportunities in major Forex pairs using OHLC data, moving averages, and technical indicators, generating long/short signals
